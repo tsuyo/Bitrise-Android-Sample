@@ -1,4 +1,4 @@
-# Bitrise Android Sample
+# Bitrise Android Sample 1
 
 [![Bitrise status](https://app.bitrise.io/app/044e227ca7187314/status.svg?token=Uz0hs2VvIk1-traq34ABNQ&branch=main)](https://app.bitrise.io/app/044e227ca7187314)
 
